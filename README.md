@@ -56,5 +56,8 @@ This project is proprietary software developed for educational purposes.
 ## Jar Start
 
 where /r C:\ B.jar
+
 cd path
+
 java -jar B.jar
+
