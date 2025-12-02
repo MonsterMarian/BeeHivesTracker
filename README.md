@@ -48,10 +48,6 @@ The application uses a menu-driven console interface with the following key comp
 - **EmployeeManager**: Employee functions (task completion, report submission)
 - **Parallel Processing**: Multi-threaded processing for performance optimization
 
-## License
-
-
-This project is proprietary software developed for educational purposes.
 
 ## Jar Start
 
@@ -60,4 +56,5 @@ where /r C:\ B.jar
 cd path
 
 java -jar B.jar
+
 
